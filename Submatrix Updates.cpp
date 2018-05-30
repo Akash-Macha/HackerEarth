@@ -1,3 +1,4 @@
+// https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/submatrix-updates-1/
 #include<iostream>
 using namespace std;
 
@@ -32,7 +33,6 @@ int main()
             cout << matrix[i][j] << " ";
         cout << "\n";
 	}
-        
 
 }
 
